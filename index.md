@@ -4,6 +4,6 @@ title: false
 
 # Hello, world!
 
-This is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's new AP CS Principles curriculum framework.
+This is my CS50's site! This site will be for assignments, research, and work in the CS50's Introduction to Computer Science 2020 course. "CS50 is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming."
 
-<iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe>
+<iframe src="https://www.youtube.com/watch?v=3oFAJtFE8YU"></iframe>
