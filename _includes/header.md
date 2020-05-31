@@ -1,4 +1,4 @@
-# [gassim's CS50]({{ "/" | relative_url }})
+# [Gassim's CS50]({{ "/" | relative_url }})
 
 Harvard University course on edX\\
 2019–2020\\
